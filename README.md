@@ -1,2 +1,3 @@
-# QuizePrintsTickets
-小票打印
+# PKU JAVA The Quize
+
+---

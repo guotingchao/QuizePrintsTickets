@@ -1,0 +1,13 @@
+# JAVA
+*.class
+*.jar
+*.war
+*.ear
+/target/
+/bin/
+/out/
+/.idea/
+/.vscode/
+/.classpath
+/.project
+/.settings/
