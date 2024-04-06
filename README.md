@@ -3,9 +3,6 @@
 ---
 
 ### 项目结构
-
-项目的主要功在src/main/java/com/printer目录下
-目录结构如下
 ---
 ```
  src
